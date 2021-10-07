@@ -1,0 +1,28 @@
+{
+  "name": "youtubepkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sjMehar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "downloads-folder": "^3.0.1",
+    "express": "^4.17.1",
+    "fb-video-downloader": "^1.0.3",
+    "ffmpeg-cli": "^2.7.5",
+    "ffmpeg-static": "^4.4.0",
+    "instagram-downloader": "0.0.0",
+    "js-file-download": "^0.4.12",
+    "react-player": "^2.9.0",
+    "socket.io": "^4.2.0",
+    "twitter-video-downloader": "^1.0.13",
+    "youtube-autocomplete": "0.0.1",
+    "youtube-search-api": "^1.0.10",
+    "ytdl-core": "^4.9.1"
+  }
+}
